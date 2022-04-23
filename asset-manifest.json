@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kodecamp-dynamic-rendering-task/static/css/main.66714998.css",
+    "main.js": "/kodecamp-dynamic-rendering-task/static/js/main.af67bf8e.js",
+    "index.html": "/kodecamp-dynamic-rendering-task/index.html",
+    "main.66714998.css.map": "/kodecamp-dynamic-rendering-task/static/css/main.66714998.css.map",
+    "main.af67bf8e.js.map": "/kodecamp-dynamic-rendering-task/static/js/main.af67bf8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66714998.css",
+    "static/js/main.af67bf8e.js"
+  ]
+}
